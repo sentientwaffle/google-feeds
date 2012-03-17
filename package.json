@@ -1,0 +1,35 @@
+{ "name":        "google-feeds"
+, "version":     "0.0.1"
+, "description": "an interface to the Google Feeds API"
+, "keywords":    ["atom", "rss", "feed", "google"]
+, "homepage":    "https://github.com/sentientwaffle/google-feeds"
+, "bugs":
+  { "url":  "https://github.com/sentientwaffle/google-feeds/issues"
+  }
+, "author":
+  { "name": "sentientwaffle"
+  , "url":  "http://sentientwaffle.github.com/"
+  }
+
+, "main": "./index"
+, "scripts":
+  { "test": "mocha"
+  }
+
+
+, "repository":
+  { "type": "git"
+  , "url":  "https://github.com/sentientwaffle/google-feeds.git"
+  }
+
+, "dependencies":
+  { "request":    "2.x.x"
+  }
+
+, "devDependencies":
+  { "should":     "0.x.x"
+  , "mocha":      "0.x.x"
+  }
+
+, "engines": { "node": ">=0.4.1" }
+}
