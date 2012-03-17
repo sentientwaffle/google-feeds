@@ -1,4 +1,7 @@
 # Feed-discover
+
+[![Build Status](https://secure.travis-ci.org/sentientwaffle/google-feeds.png?branch=master)](http://travis-ci.org/sentientwaffle/google-feeds)
+
 Search for feeds using the
 [Google Feeds JSON API](https://developers.google.com/feed/v1/jsondevguide).
 
