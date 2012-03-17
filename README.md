@@ -1,4 +1,4 @@
-# Feed-discover
+# Google-feeds
 
 [![Build Status](https://secure.travis-ci.org/sentientwaffle/google-feeds.png?branch=master)](http://travis-ci.org/sentientwaffle/google-feeds)
 
